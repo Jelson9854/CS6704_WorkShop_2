@@ -1,8 +1,8 @@
 # CS6704_WorkShop_2
 
-## Members
-Emily Altland
+### Members
+1. Emily Altland
 
-Andrew Jelson
+2. Andrew Jelson
 
-Mary Catherine McGranahan
+3. Mary Catherine McGranahan
