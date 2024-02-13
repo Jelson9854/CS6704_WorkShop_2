@@ -2,5 +2,7 @@
 
 ## Members
 Emily Altland
+
 Andrew Jelson
+
 Mary Catherine McGranahan
